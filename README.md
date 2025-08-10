@@ -15,6 +15,7 @@ cd repo_name
 ```bash
 npm install
 npm run update:latest
+code .
 npm run dev:open
 ```
 
